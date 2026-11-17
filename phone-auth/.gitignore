@@ -1,0 +1,6 @@
+# Local database and logs contain user data; never commit them.
+auth.db
+auth.db-wal
+auth.db-shm
+server.log
+__pycache__/
